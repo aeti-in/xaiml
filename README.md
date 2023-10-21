@@ -54,9 +54,9 @@ Extensible Artificial Intelligence Markup Language (XAIML) is an innovative spec
 
 #### Future Directions
 
-- **6G Technology Integration**: With the global shift towards more advanced technologies, XAIML is eyeing capabilities to handle 6G-related data and insights.
+- **Adding Privacy and Ethical Considerations**
 
-- **Universal Namespace System**: There are plans to integrate a more universal namespace system similar to RDF for easier data merging and standardization across domains.
+- **Support for Internet of Things (IoT)**
 
 By serving as a robust and flexible platform for knowledge storage and management, XAIML is positioning itself as an indispensable tool in the evolving landscape of artificial intelligence.
 
